@@ -153,6 +153,32 @@ These patterns could help retailers investigate product quality, sizing, custome
 
 ## 📈 Visualization Gallery
 
+## 📊 Visualization Gallery
+
+### 1. Monthly Sales Trend
+![Monthly Sales](assets/charts/monthly_sales.png)
+
+### 2. Quarterly Sales Trend
+![Quarterly Sales](assets/charts/quarterly_sales.png)
+
+### 3. Customer Age Group Distribution
+![Age Distribution](assets/charts/age_distribution.png)
+
+### 4. Gender Distribution
+![Gender Distribution](assets/charts/gender_distribution.png)
+
+### 5. Top 10 Best-Selling Products
+![Top Products](assets/charts/top_products.png)
+
+### 6. Revenue by Product Category
+![Category Revenue](assets/charts/category_revenue.png)
+
+### 7. Correlation Heatmap
+![Correlation Heatmap](assets/charts/correlation_heatmap.png)
+
+### 8. Return Rate by Category
+![Return Rate](assets/charts/return_rate.png)
+
 The project includes visual analysis covering the following areas:
 
 | Visualization | Analytical Purpose |
